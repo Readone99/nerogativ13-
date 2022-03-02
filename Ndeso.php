@@ -48,9 +48,8 @@
           filter: grayscale(55%);
   position: absolute;
   background-image: url(https://i.ibb.co/gryWv5Y/images-25.jpg);
-  background-color: #333333;
-  background-position: center center;
-  background-size: cover;
+  background-repeat: no-repeat;
+	background-size: cover;
 }
 #four-oh-four #error-container .overlay {
   position: absolute;
