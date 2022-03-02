@@ -49,7 +49,7 @@
   position: absolute;
   background-image: url(https://i.ibb.co/gryWv5Y/images-25.jpg);
   background-repeat: no-repeat;
-	background-size: cover;
+        background-size: cover;
 }
 #four-oh-four #error-container .overlay {
   position: absolute;
