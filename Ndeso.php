@@ -53,10 +53,6 @@
   background-size: 150% 150%;
   width: 100%;
   height: 100%;
-  top: 0;
-  -webkit-transform: rotate(180deg);
-          transform: rotate(180deg);
-  z-index: -999;
 }
 #four-oh-four #error-container .overlay {
   position: absolute;
@@ -193,9 +189,10 @@ $(function() {
     strings: [
       "Oops! Bang Gini Kalo Ini Emang Gua Gabut <br/>" + 
       "~<span class='caret'>$</span> Kalo Lu Mau Tikung Shell Gua !!, <br/> ^1" +
-      "~<span class='caret'>$</span> Ya Tikung Ajah Kalo Bisa <br/> ^500" +
-      "~<span class='caret'>$</span> Serius Gak Marah Apalagi Koar Guasih Ya Gitu <br/> ^1000" +
-      "~<span class='caret'>$</span> Gak Ngrasa Noob Apalagi Ampasan Kaya loo !!. <a href='#'></a>"
+      "~<span class='caret'>$</span> Ya Tikung Ajah Kalo Bisa, <br/> " +
+      "~<span class='caret'>$</span> Serius Gak Marah Apalagi Koar Guasih Ya Gitu  <br/> ^500" +
+      "~<span class='caret'>$</span> Gak Noob Apalagi Ampasan Kaya loo Yang Apa-Apa Heker !!.<br/> ^1000" +
+      "~<span class='caret'>$</span> Support Team : GANEST7 - CIREBON BLACKHAT - SAITAMA CREW XPLOIT - CIREBON XPLOIT - THE KING FAMILY <a href='#'></a>"
     ],
     showCursor: true,
     cursorChar: '_',
@@ -218,4 +215,6 @@ $(function() {
 <audio hidden autoplay loop>
     <source src="https://ramiteconstruction.com/its%20a%20love%20song%20(ft.%20isabella%20maharanni).mp3" type="audio/mpeg">
   </audio>
+
+
 
