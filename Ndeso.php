@@ -47,7 +47,7 @@
   -webkit-filter: grayscale(55%);
           filter: grayscale(55%);
   position: absolute;
-  background-image: url(https://i.ibb.co/VvWN0cR/images-19.jpg);
+  background-image: url(https://i.ibb.co/gryWv5Y/images-25.jpg);
   background-color: #333333;
   background-position: center center;
   background-size: 150% 150%;
@@ -195,8 +195,7 @@ $(function() {
       "~<span class='caret'>$</span> Kalo Lu Mau Tikung Shell Gua !!, <br/> ^1" +
       "~<span class='caret'>$</span> Ya Tikung Ajah Kalo Bisa <br/> ^500" +
       "~<span class='caret'>$</span> Serius Gak Marah Apalagi Koar Guasih Ya Gitu <br/> ^1000" +
-      "~<span class='caret'>$</span> Gak Ngrasa Noob Apalagi Ampasan Kaya loo !!. 
-      "~<span class='caret'>$</span> Support Team : Ganest7 - Cirebon Blackhat - Cirebon Xploit - Saitama Xploit Crew - Purwokerto Xploit <a href='#'></a>"
+      "~<span class='caret'>$</span> Gak Ngrasa Noob Apalagi Ampasan Kaya loo !!. <a href='#'></a>"
     ],
     showCursor: true,
     cursorChar: '_',
