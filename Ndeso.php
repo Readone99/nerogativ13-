@@ -16,8 +16,6 @@
 <body>
 
   <section id="four-oh-four">
-  <img class="bg" alt="404" />
-  <div id="error-container">
     <div class="overlay"></div>
     <div class="terminal">
       <div class="window-title">
@@ -25,10 +23,11 @@
           <a id="close" class="button" href="#"></a>
           <a id="min" class="button" href="#"></a>
           <a id="max" class="button" href="#"></a>
-        </div>
+        </div><br>
+        <br>
         <span class="title">Disetubuhi Xnero13-id</span></div>
       <div class="message">
-        <span class='prompt'><span class='user'>root</span><span class="at">@</span><span class="path">Ambari</span>~<span class="caret">$</span> </span>
+        <span class='prompt'><span class='user'>root</span><span class="at">@</span><span class="path">Xnero13-Id</span>~<span class="caret">$</span> </span>
         <span class="typed"></span>
         <form>><span class="caret">$</span>&nbsp;
           <input type="text" name="response"></input>
@@ -43,14 +42,6 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js'></script>
 
 <style>
-#four-oh-four img.bg {
-  -webkit-filter: grayscale(55%);
-          filter: grayscale(55%);
-  position: absolute;
-  background-image: url(https://i.ibb.co/gryWv5Y/images-25.jpg);
-  background-repeat: no-repeat;
-        background-size: cover;
-}
 #four-oh-four #error-container .overlay {
   position: absolute;
   background-color: #000;
@@ -189,7 +180,7 @@ $(function() {
       "~<span class='caret'>$</span> Ya Tikung Ajah Kalo Bisa, <br/> " +
       "~<span class='caret'>$</span> Serius Gak Marah Apalagi Koar Guasih Ya Gitu  <br/> ^500" +
       "~<span class='caret'>$</span> Gak Noob Apalagi Ampasan Kaya loo Yang Apa-Apa Heker !!.<br/> ^1000" +
-      "~<span class='caret'>$</span> Support Team : <br>GANEST7 - CIREBON BLACKHAT - SAITAMA CREW XPLOIT - CIREBON XPLOIT - THE KING FAMILY <a href='#'></a>"
+      "~<span class='caret'>$</span> Support Team : <br>- GANEST SEVEN <br>- CIREBON BLACKHAT <br>- SAITAMA CREW XPLOIT <br>- CIREBON XPLOIT <br>- THE KING FAMILY  <a href='#'></a>"
     ],
     showCursor: true,
     cursorChar: '_',
@@ -212,6 +203,8 @@ $(function() {
 <audio hidden autoplay loop>
     <source src="https://ramiteconstruction.com/its%20a%20love%20song%20(ft.%20isabella%20maharanni).mp3" type="audio/mpeg">
   </audio>
+
+
 
 
 
