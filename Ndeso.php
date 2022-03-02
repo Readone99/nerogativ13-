@@ -50,9 +50,7 @@
   background-image: url(https://i.ibb.co/gryWv5Y/images-25.jpg);
   background-color: #333333;
   background-position: center center;
-  background-size: 150% 150%;
-  width: 100%;
-  height: 100%;
+  background-size: cover;
 }
 #four-oh-four #error-container .overlay {
   position: absolute;
@@ -192,7 +190,7 @@ $(function() {
       "~<span class='caret'>$</span> Ya Tikung Ajah Kalo Bisa, <br/> " +
       "~<span class='caret'>$</span> Serius Gak Marah Apalagi Koar Guasih Ya Gitu  <br/> ^500" +
       "~<span class='caret'>$</span> Gak Noob Apalagi Ampasan Kaya loo Yang Apa-Apa Heker !!.<br/> ^1000" +
-      "~<span class='caret'>$</span> Support Team : GANEST7 - CIREBON BLACKHAT - SAITAMA CREW XPLOIT - CIREBON XPLOIT - THE KING FAMILY <a href='#'></a>"
+      "~<span class='caret'>$</span> Support Team : <br>GANEST7 - CIREBON BLACKHAT - SAITAMA CREW XPLOIT - CIREBON XPLOIT - THE KING FAMILY <a href='#'></a>"
     ],
     showCursor: true,
     cursorChar: '_',
